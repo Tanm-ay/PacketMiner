@@ -1,5 +1,6 @@
 # PacketMiner
 PacketMiner is a simple tool for automatically detecting and extracting a wide range of file types, including images, documents, archives, media, and scripts, from either a pcap file or a live capture from socket.
+In addition to files, PacketMiner can also identify and log usernames, passwords, and email addresses found in HTTP traffic.
 
 ## Usage
 Install dependencies with 
